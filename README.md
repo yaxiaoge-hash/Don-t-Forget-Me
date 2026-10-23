@@ -68,3 +68,25 @@ The repository includes earlier Python exercises and the final application.
 ## Project Goal
 
 The goal of Don't Forget Me is to demonstrate how Python programming can be used to create a practical application that addresses an everyday problem.
+
+## Room for Improvement
+
+The current version of Don't Forget Me focuses on basic food expiry tracking. There are several areas that could be improved in the future.
+
+More food types: Add more food names and images to support different kinds of food.
+
+Input validation: Check that users enter a food name before adding a new item.
+
+Editing food records: Allow users to change a food name or expiry date after adding it.
+
+## Acknowledgements
+
+I used learning resources and official documentation to develop my understanding of Python and Streamlit.
+
+LinkedIn Learning: Used to learn basic Python programming.
+
+Streamlit Documentation: Used to understand Streamlit components and build the app interface.
+
+GeeksforGeeks: Consulted for learning about date calculations in Python.
+
+The final application was developed and tested as part of my Creative Coding project.
