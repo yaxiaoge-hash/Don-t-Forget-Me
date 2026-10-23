@@ -36,13 +36,28 @@ The application uses four different indicators:
 ## How to Run
 
 1. Download or clone this GitHub repository.
-2. Install Python and Streamlit.
+
+2. Install Python on your computer.
+
 3. Open Terminal in the project folder.
-4. Run the following command:
 
-`python3 -m streamlit run App.py`
+4. Install the required libraries:
 
-5. The application will open in a web browser.
+pip install -r requirements.txt
+
+5. Start the application:
+
+python3 -m streamlit run App.py
+
+6. The application will open in a web browser.
+
+## Data Storage
+
+The application uses a JSON file called foods.json to save food names and expiry dates.
+
+When the app starts, it loads previously saved food records if the file exists. When food items are added or deleted, the updated records are saved to the file.
+
+This allows users to keep their food records when they restart the application.
 
 ## Project Development
 
