@@ -83,45 +83,33 @@ Editing food records: Allow users to change a food name or expiry date after add
 
 I used the following tutorials and official documentation to learn Python and Streamlit and develop my project.
 
-GeeksforGeeks
+### GeeksforGeeks
 
-Python break statement — Learned how to stop a loop.
+- [Python break statement](https://www.geeksforgeeks.org/python/python-break-statement/) — Learned how to stop a loop.
+- [Python program to find number of days between two given dates](https://www.geeksforgeeks.org/python/python-program-to-find-number-of-days-between-two-given-dates/) — Learned how to calculate days between dates.
+- [How to use while true in Python](https://www.geeksforgeeks.org/python/how-to-use-while-true-in-python/) — Learned how to create a loop.
+- [Python input() function](https://www.geeksforgeeks.org/python/python-input-function/) — Learned how to receive user input.
+- [Conditional statements in Python](https://www.geeksforgeeks.org/python/conditional-statements-in-python/) — Learned how to use if, elif and else to set food expiry statuses.
+- [Dictionaries in Python](https://www.geeksforgeeks.org/python/python-dictionary/) — Learned how to organise data using dictionaries.
+- [A Beginner's Guide to Streamlit](https://www.geeksforgeeks.org/python/a-beginners-guide-to-streamlit/) — Learned the basics of building a Streamlit app.
 
-Finding the number of days between two dates — Learned how to calculate days between dates.
+### Python Documentation
 
-How to use while True in Python — Learned how to create a loop.
+- [JSON — JSON encoder and decoder](https://docs.python.org/3/library/json.html) — Learned how to save and load food records.
+- [os.path — Common pathname manipulations](https://docs.python.org/3/library/os.path.html) — Learned how to manage file paths.
 
-Python input() function — Learned how to receive user input.
+### Streamlit Documentation
 
-Conditional statements in Python — Learned how to use if, elif and else to set food expiry statuses.
+- [Input widgets](https://docs.streamlit.io/develop/api-reference/widgets) — Learned how to create input fields.
+- [st.button](https://docs.streamlit.io/develop/api-reference/widgets/st.button) — Learned how to add interactive buttons.
+- [st.columns](https://docs.streamlit.io/develop/api-reference/layout/st.columns) — Learned how to arrange food images, details and buttons in columns.
+- [st.image](https://docs.streamlit.io/develop/api-reference/media/st.image) — Learned how to display food images.
+- [st.info](https://docs.streamlit.io/develop/api-reference/status/st.info) — Learned how to display information messages.
+- [st.write](https://docs.streamlit.io/develop/api-reference/write-magic/st.write) — Learned how to display text and information.
 
-Dictionaries in Python — Learned how to organise data using dictionaries.
+### GitHub Tutorial
 
-A Beginner's Guide to Streamlit — Learned the basics of building a Streamlit app.
-
-Python Documentation
-
-JSON — JSON encoder and decoder — Learned how to save and load food records.
-
-os.path — Common pathname manipulations — Learned how to manage file paths.
-
-Streamlit Documentation
-
-Input widgets — Learned how to create input fields.
-
-st.button — Learned how to add interactive buttons.
-
-st.columns — Learned how to arrange food images, details and buttons in columns.
-
-st.image — Learned how to display food images.
-
-st.info — Learned how to display information messages.
-
-st.write — Learned how to display text and information.
-
-GitHub Tutorial
-
-Laxmimerit — Streamlit text input example — Referenced an example of using text inputs in a Streamlit app.
+- [Laxmimerit — Streamlit text input example](https://github.com/laxmimerit/streamlit-tutorials/blob/main/02_working_with_text_inputes.py) — Referenced an example of text input in a Streamlit app.
 
 ## Project Status
 
