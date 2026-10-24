@@ -81,12 +81,52 @@ Editing food records: Allow users to change a food name or expiry date after add
 
 ## Acknowledgements
 
-I used learning resources and official documentation to develop my understanding of Python and Streamlit.
+I used the following tutorials and official documentation to learn Python and Streamlit and develop my project.
 
-LinkedIn Learning: Used to learn basic Python programming.
+GeeksforGeeks
 
-Streamlit Documentation: Used to understand Streamlit components and build the app interface.
+Python break statement — Learned how to stop a loop.
 
-GeeksforGeeks: Consulted for learning about date calculations in Python.
+Finding the number of days between two dates — Learned how to calculate days between dates.
 
-The final application was developed and tested as part of my Creative Coding project.
+How to use while True in Python — Learned how to create a loop.
+
+Python input() function — Learned how to receive user input.
+
+Conditional statements in Python — Learned how to use if, elif and else to set food expiry statuses.
+
+Dictionaries in Python — Learned how to organise data using dictionaries.
+
+A Beginner's Guide to Streamlit — Learned the basics of building a Streamlit app.
+
+Python Documentation
+
+JSON — JSON encoder and decoder — Learned how to save and load food records.
+
+os.path — Common pathname manipulations — Learned how to manage file paths.
+
+Streamlit Documentation
+
+Input widgets — Learned how to create input fields.
+
+st.button — Learned how to add interactive buttons.
+
+st.columns — Learned how to arrange food images, details and buttons in columns.
+
+st.image — Learned how to display food images.
+
+st.info — Learned how to display information messages.
+
+st.write — Learned how to display text and information.
+
+GitHub Tutorial
+
+Laxmimerit — Streamlit text input example — Referenced an example of using text inputs in a Streamlit app.
+
+## Project Status
+
+Completed prototype.
+
+## Contact
+
+GitHub: yaxiaoge-hash
