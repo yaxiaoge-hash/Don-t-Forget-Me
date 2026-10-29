@@ -40,7 +40,8 @@ The application uses four different indicators:
 2. Install Python on your computer.
 
 3. Open Terminal in the project folder.
-  • Note: The Terminal needs to be opened inside the project folder that contains App.py. (If you run commands directly in the Mac home directory ~, Python may fail to locate App.py.)
+
+• Note: The Terminal needs to be opened inside the project folder that contains App.py. (If you run commands directly in the Mac home directory ~, Python may fail to locate App.py.)
 
 4. Install the required libraries:
 
